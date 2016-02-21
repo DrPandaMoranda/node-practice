@@ -1,9 +1,17 @@
 {
     "author": "David Moran",
-    "name": "censorify",
+    "name": "censorify_dpm_022116",
     "version": "0.1.1",
     "description": "Censors words out of text",
     "main": "censortext",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DrPandaMoranda/node-practice/tree/master/censorify"
+    },
+    "keyword": [
+        "censor",
+        "words"
+    ],
     "dependencies": {},
     "engines": {
         "node": "*"
