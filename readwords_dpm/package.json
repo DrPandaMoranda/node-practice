@@ -1,8 +1,8 @@
 {
     "author": "David Moran",
-    "name": "censorify_dpm",
+    "name": "readwords_dpm",
     "version": "0.1.1",
-    "description": "Censors words out of text",
+    "description": "Reads words",
     "main": "censortext",
     "repository": {
         "type": "git",
