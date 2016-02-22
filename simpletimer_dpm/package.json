@@ -1,0 +1,11 @@
+{
+    "author": "David Moran",
+    "name": "simpletimer_dbm",
+    "version": "0.1.1",
+    "description": "A Simple Timer App",
+    "main": "simpletimer",
+    "dependencies": {},
+    "engines": {
+        "node": "*"
+    }
+}

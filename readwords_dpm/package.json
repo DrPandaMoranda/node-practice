@@ -3,7 +3,7 @@
     "name": "readwords_dpm",
     "version": "0.1.1",
     "description": "Reads words",
-    "main": "censortext",
+    "main": "readwords",
     "repository": {
         "type": "git",
         "url": "https://github.com/DrPandaMoranda/node-practice/tree/master/censorify"
