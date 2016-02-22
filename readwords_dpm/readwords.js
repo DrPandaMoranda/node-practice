@@ -1,6 +1,6 @@
-var censor = require("censorify_spm_022116");
+var censor = require("censorify_dpm");
 console.log(censor.getCensoredWords());
 console.log(censor.censor("Some very sad, bad, and mad text."));
 censor.addCensoredWord("gloomy");
 console.log(censor.getCensoredWords());
-console.log(censor.censor("A very gloomyt day"));
+console.log(censor.censor("A very gloomy day"));
